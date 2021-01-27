@@ -1,2 +1,15 @@
-# my_ai
-a.i which can open youtube, google, bing, github, can tell time, date, day and many more, this project would be updated soon
+created by : rakshit
+at : 13:26
+
+======================= Description =======================
+the project is a python project
+you have to import some modules using 'pip' :
+pyttsx3 
+SeechRecognition
+wikipedia
+
+
+nothing to say much, :|
+project will be updated soon..
+stay tuned 
+:}
