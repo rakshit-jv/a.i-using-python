@@ -14,7 +14,7 @@ command = ''  # would be the command taken from user
 summary = ''  # would be summary of search
 introduction = 'I am an artificial bot, i am deemed to help you out, please tell me how might i help you, ' \
                'you can use commands to let me do something, regards'  # intro
-content = ''  # content of file
+# content = ''  # content of file
 
 # declaring variables related time
 today = datetime.today()  # current time
